@@ -1,0 +1,7 @@
+[core]
+	editor = vi
+[user]
+	name = Bharat Ahuja
+	email = bharatahuja@live.com
+[init]
+	defaultBranch = master
