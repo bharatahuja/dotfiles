@@ -221,3 +221,8 @@ bar {
 }
 
 include /etc/sway/config.d/*
+
+workspace 1
+exec firefox
+workspace 2
+exec foot
